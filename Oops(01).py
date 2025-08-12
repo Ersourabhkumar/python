@@ -8,8 +8,8 @@
 
 """define a class"""
 # class car:
-#     color ='red'
-#     model ="2023"
+#     color ='red'  #atribute
+#     model ="2023" #method
 
 #     def start(self):
 #         print("booommm")
